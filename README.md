@@ -1,1 +1,3 @@
-# llm-vec-dim-control
+# Vectors from Larger Language Models Predict Human Reading Time and fMRI Data More Poorly when Dimensionality Expansion is Controlled
+
+This is the code repository for the paper [Vectors from Larger Language Models Predict Human Reading Time and fMRI Data More Poorly when Dimensionality Expansion is Controlled](https://arxiv.org/abs/2505.12196), which includes code for getting vectors from autoregressive LLMs.
